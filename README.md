@@ -1,5 +1,5 @@
 # 2D-graphics-Soccer-game
-A 2d graphics soccer game where you dodge obstacles and while trying to dodge obstacles
+A 2d graphics soccer game where you dodge obstacles while trying to dodge obstacles
 The program I made is called ball control, the game is generally straight foward. The goal of the game is to 
 move the blue rectangle(the soccerball) around obstacles without touching them, and without going out of bounds, 
 your objective is to make it to the other side of the soccer field where the goal is (it's in red), the ENTIRE blue 
